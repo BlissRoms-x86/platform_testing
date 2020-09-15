@@ -104,7 +104,6 @@ native_tests := \
     netd_integration_test \
     netd_unit_test \
     netdutils_test \
-    nfc_test_utils \
     perfetto_integrationtests \
     posix_async_io_test \
     prioritydumper_test \

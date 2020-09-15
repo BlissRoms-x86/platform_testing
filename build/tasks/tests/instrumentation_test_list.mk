@@ -44,7 +44,6 @@ instrumentation_tests := \
     ContactsProviderTests \
     ContactsProviderTests2 \
     SettingsUnitTests \
-    TelecomUnitTests \
     TraceurUiTests \
     AndroidVCardTests \
     PermissionFunctionalTests \
